@@ -105,19 +105,19 @@ These are the python scripts that create the databases schema and all the querie
 During the project, I have also added an EDA (Exploratory Data Analysis) and I include here some of the graphics for a better understanding of this dataset
 <br>
 
- <br>Number of users
+ <br>Number of users<br>
 ![Alt text](./img/nusers.png?raw=true "Number of Users")
 
-<br>Graphic of Users by Level
+<br>Graphic of Users by Level<br>
 ![Alt text](./img/usersbylevel.png?raw=true "Users by Level")
 
- <br>Graphic of Gender Distribution
+ <br>Graphic of Gender Distribution<br>
 ![Alt text](./img/usersbygender.png?raw=true "Gender Distribution")
 
- <br>Graphic of Users by American State
+ <br>Graphic of Users by American State<br>
 ![Alt text](./img/usersbylocation.png?raw=true "Users by State")
 
- <br>Graphic of 5 Top Artist
+ <br>Graphic of 5 Top Artist<br>
 ![Alt text](./img/top_artists.png?raw=true "5 Top Artist")
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
